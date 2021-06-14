@@ -9,10 +9,11 @@ Using C#.NET for the prototype - Form-Based.
 ### github-account
 https://github.com/Inkimar/Bookshelf (private for now)
 
-## MySQL Database
+## MySQL Database 8
 
 - Localhost; using user 'root' ; psw = <>
 - database=bookshelf -> 'Dump Structure and Data'
+- sored in /Inkimar/Bookshelf
 
 ### MySQL Workbench 8.0.21 
 
@@ -24,7 +25,7 @@ https://dev.mysql.com/doc/workbench/en/wb-admin-export-import-management.html
 
 #### MySQL Utilities Console)
 
-### App.config
+### App.config (Config-file, Connection String)
 
 ```
 <?xml version="1.0" encoding="utf-8" ?>
