@@ -12,9 +12,15 @@ https://github.com/Inkimar/Bookshelf (private for now)
 ## MySQL Database
 
 - Localhost; using user 'root' ; psw = <>
-- database=bookshelf
+- database=bookshelf -> 'Dump Structure and Data'
 
 ### MySQL Workbench 8.0.21 
+
+1. Main-menu 'Server' 
+2. menu 'Data Export
+
+#### export
+https://dev.mysql.com/doc/workbench/en/wb-admin-export-import-management.html 
 
 #### MySQL Utilities Console)
 
