@@ -1,9 +1,9 @@
 # -bookshelf
 Hobby project 
 
-## Prottype Under development
+## Prototype Under development
 Using C#.NET for the prototype - Form-Based.
 
-https://github.com/Inkimar/Bookshelf
+https://github.com/Inkimar/Bookshelf (private for now)
 
 
