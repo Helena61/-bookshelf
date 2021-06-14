@@ -2,14 +2,21 @@
 Hobby project 
 
 ## Prototype Under development
+
+### Using Windows 10 and Visual Studio 2019
 Using C#.NET for the prototype - Form-Based.
 
+### github-account
 https://github.com/Inkimar/Bookshelf (private for now)
 
 ## MySQL Database
 
 - Localhost; using user 'root' ; psw = <>
 - database=bookshelf
+
+### MySQL Workbench 8.0.21 
+
+#### MySQL Utilities Console)
 
 ### App.config
 
