@@ -7,7 +7,7 @@ Hobby project
 Using C#.NET for the prototype - Form-Based.
 
 ### github-account
-https://github.com/Inkimar/Bookshelf (private for now)
+https://github.com/Inkimar/Bookshelf (private-repository for now, ask to join!)
 
 ## MySQL Database 8
 
