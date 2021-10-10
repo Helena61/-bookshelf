@@ -4,7 +4,10 @@ Hobby project
 ## Prototype Under development
 
 ### Using Windows 10 and Visual Studio 2019
-Using C#.NET for the prototype - Form-Based.
+
+1. Using the IDE =  Visual Studio 2019
+2. Using C#.NET for the prototype - Form-Based.
+3. Projekt = Bookshelf.csproj
 
 ### github-account
 https://github.com/Inkimar/Bookshelf (private-repository for now, ask to join!)
