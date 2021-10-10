@@ -13,7 +13,7 @@ https://github.com/Inkimar/Bookshelf (private-repository for now, ask to join!)
 
 - Localhost; using user 'root' ; psw = <>
 - database=bookshelf -> 'Dump Structure and Data'
-- sored in /Inkimar/Bookshelf
+- database-dump is stored in https://github.com/Inkimar/Bookshelf
 
 ### MySQL Workbench 8.0.21 
 
